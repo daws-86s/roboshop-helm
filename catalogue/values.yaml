@@ -1,0 +1,3 @@
+deployment:
+  imageRepo: joindevops/catalogue
+  imageVersion: v1
